@@ -19,8 +19,13 @@
 
 <p align="center"><b> You can find my works and code on my github, you're welcome 😇 </b></p>
 
-## Links
+<h2 align="center"> 𝙻𝚒𝚗𝚔𝚜 🔌 </h2>
 
-#### _My CodeWars:_ [CodeWars](https://www.codewars.com/users/rsschool_96b300d832831341)
+<h2 align="center"> 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌 📈 </h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ekaterinapetukhova&theme=gruvbox)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekaterinapetukhova&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/rsschool_96b300d832831341/badges/large)](https://www.codewars.com/users/rsschool_96b300d832831341) 
 
 
