@@ -1,6 +1,6 @@
 <h3 align="center"> Hey, what's up bro? 👋🏻 </h3>
 
-<h2 align="center"> 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙺𝚊𝚝𝚎, 𝚊𝚗𝚍 𝙸'𝚖 𝚐𝚕𝚊𝚍 𝚝𝚘 𝚜𝚎𝚎 𝚑𝚎𝚛𝚎 🤗 </h2>
+<h2 align="center"> 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙺𝚊𝚝𝚎, 𝚊𝚗𝚍 𝙸'𝚖 𝚐𝚕𝚊𝚍 𝚝𝚘 𝚜𝚎𝚎 you 𝚑𝚎𝚛𝚎 🤗 </h2>
 
 <p align="center"><b> At this moment I'm stydying at the university on the faculty of Computer Science and also learning JS myself (and other web stuff). I'm full of energy and motivation to conquer the peaks! </b></p>
 
