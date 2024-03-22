@@ -14,7 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40">
 </div>
 
 <p align="center"><b> You can find my works and code on my github, you're welcome 😇 </b></p>
