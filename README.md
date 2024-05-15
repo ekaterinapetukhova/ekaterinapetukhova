@@ -32,7 +32,7 @@
 </div>
 
 
-<h3> My Projects :globe_with_meridians: </h3>
+<h3> Projects :globe_with_meridians: </h3>
 
 | Name  | Link |
 | ------------- | ------------- |
