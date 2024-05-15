@@ -44,7 +44,7 @@
 
 
 
-<h3> 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌 📈 </h3>
+<h3> 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌s 📈 </h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ekaterinapetukhova&theme=gruvbox)](https://git.io/streak-stats)
 
