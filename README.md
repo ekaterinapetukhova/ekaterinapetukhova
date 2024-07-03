@@ -15,6 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40">
 </div>
 
 
