@@ -28,9 +28,6 @@
   <a href="https://www.instagram.com/sadkote/">
     <img src="https://img.shields.io/badge/Instagram-violet?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
-   <a href="https://www.facebook.com/sadkotya/">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
-  </a>
 </div>
 
 
