@@ -16,6 +16,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/vuejs-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/nestjs-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/tailwindcss-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/postgresql-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/prisma-original.svg" height="40">
 </div>
 
 
