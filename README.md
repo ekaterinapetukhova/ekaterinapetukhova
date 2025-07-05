@@ -25,18 +25,6 @@
 </div>
 
 
-<h3> 𝙻𝚒𝚗𝚔𝚜🔌</h3>
-
-<div>
-  <a href="https://www.linkedin.com/in/ekaterina-petukhova/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sadkote/">
-    <img src="https://img.shields.io/badge/Instagram-violet?logo=instagram&logoColor=white&style=for-the-badge"/>
-  </a>
-</div>
-
-
 <h3> Projects :globe_with_meridians: </h3>
 
 | Name  | Link |
