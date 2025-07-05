@@ -4,7 +4,7 @@
 
 <h3> 𝚃𝚘𝚘𝚕𝚜 & 𝚂𝚔𝚒𝚕𝚕𝚜 🚀 </h3>
 
-<div>
+<div display="flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40">
