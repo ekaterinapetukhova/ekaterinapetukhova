@@ -2,9 +2,10 @@
 
 <h2> 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙺𝚊𝚝𝚎, 𝚊𝚗𝚍 𝙸'𝚖 𝚐𝚕𝚊𝚍 𝚝𝚘 𝚜𝚎𝚎 you 𝚑𝚎𝚛𝚎 🤗 </h2>
 
+
 <h3> 𝚃𝚘𝚘𝚕𝚜 & 𝚂𝚔𝚒𝚕𝚕𝚜 🚀 </h3>
 
-<div display="flex">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40">
